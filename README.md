@@ -34,7 +34,6 @@ pip install scikit-learn
  - #### Gradient Boost Classifier
    - Accuracy: **96.89%**
    - Cross-Validation: **96.19%**
-   - Training Score: **81.19%** 
 
 ## **📄 License**
 Apache License 2.0
