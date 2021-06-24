@@ -282,7 +282,7 @@ result['conversion_fraud'].replace((1,0),(True,False),inplace=True)
 
 # Set Index as Loan_ID which was stored in loan_id earlier
 result.set_index(record_id, inplace=True)
-
+# Check the head of result data
 result.head()
 
 
